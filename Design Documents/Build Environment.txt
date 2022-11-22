@@ -1,0 +1,24 @@
+These are the technologies used that run this application
+
+Client - These are the required components for running the front-end application. Node.js is the runtime environment,
+TypeScript is the language it will be developed in, React is the framework we will create web components in, and we are
+styling the pages with Tailwind CSS. We will be developing this in VSCode text editor.
+------------------------------------------------------------------------------------------------------------------------
+Node.JS 
+JavaScript / TypeScript (VS Code)
+React 
+Tailwind CSS
+
+Server - These are the required components for running the back-end application. We will be using the .NET framework using
+C# and we will use MySQL as the database.
+------------------------------------------------------------------------------------------------------------------------
+C# (Visual Studio)
+.NET
+bcrypt (NuGet)
+MySQL
+
+Docker - This application will be developed within a Docker Image.
+-------------------------------------------------------------------------------------------------------
+
+AWS - This application will be deployed using AWS S3. 
+---------------------------------------------------------------------------------------------------------
